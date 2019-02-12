@@ -1,4 +1,4 @@
-# hackchallenge
+# Hack Challenge
 
 ## Setting up the codebase
 
