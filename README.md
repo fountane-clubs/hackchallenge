@@ -1,6 +1,6 @@
 # hackchallenge
 
-##Setting up the codebase
+## Setting up the codebase
 
 The candidate should take a pull from the master branch to start the challange.
 
@@ -43,7 +43,7 @@ git push origin johndoe@example.com
 
 ```
 
-##Submitting the challange
+## Submitting the challange
 
 Once, the branch is commited and push to the remote repository then merge it with the Master branch with a Pull request: 
 
