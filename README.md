@@ -47,8 +47,8 @@ git push origin johndoe@example.com
 
 Once, the branch is commited and push to the remote repository then merge it with the Master branch with a Pull request: 
 
-1. Go to the Repo #### Navigation bar
-2. Select option #### Pull Request 
+1. Go to the Repo "Navigation bar"
+2. Select option "Pull Request" 
 3. Now choose the branch as "johndoe@example.com" and target branch as "master" 
 4. Click on Submit. 
 
